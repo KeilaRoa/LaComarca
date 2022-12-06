@@ -67,6 +67,8 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+}
+
 @media (max-width:768px) {
     .checkbtn {
         display: block;
