@@ -29,8 +29,8 @@ header {
 }
 
 .nav-menu ul {
-    align-items: center;
   display: flex;
+  align-items: center;
 }
 
 .nav-menu li {
