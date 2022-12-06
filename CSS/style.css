@@ -83,6 +83,9 @@ header {
 
 .carousel {display: none}
 img {vertical-align: middle;}
+
+/* Contenedor de carousel */
+.slideshow-container {
 @media (max-width:768px) {
     .checkbtn {
         display: block;
