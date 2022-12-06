@@ -92,6 +92,8 @@ margin: 1rem;
 margin-left: 10%;
 }
 
+/* Botones siguiente y atrás */
+.prev, .next {
 @media (max-width:768px) {
     .checkbtn {
         display: block;
