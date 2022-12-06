@@ -76,6 +76,9 @@ header {
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
+}
+
+
 @media (max-width:768px) {
     .checkbtn {
         display: block;
