@@ -95,6 +95,7 @@ margin-left: 10%;
 /* Botones siguiente y atrás */
 .prev, .next {
 cursor: pointer;
+position: absolute;
 @media (max-width:768px) {
     .checkbtn {
         display: block;
