@@ -69,6 +69,7 @@ header {
   position: relative;
 }
 
+.hero-text {
 @media (max-width:768px) {
     .checkbtn {
         display: block;
