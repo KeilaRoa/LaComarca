@@ -70,6 +70,7 @@ header {
 }
 
 .hero-text {
+  text-align: center;
 @media (max-width:768px) {
     .checkbtn {
         display: block;
