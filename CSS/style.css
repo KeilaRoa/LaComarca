@@ -61,6 +61,7 @@ header {
 
 /* Clase de la imágen principal */
 .hero-image{
+  background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://scontent.fnqn9-1.fna.fbcdn.net/v/t1.18169-9/1396009_10151730733809091_1397458296_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=174925&_nc_eui2=AeF0zdB0hTkQrUxy855sFDAlREPSPUfPd9VEQ9I9R8931cinZ0_Cf4xuXh8LxImutVswaKoJMbDShaoNnR3OrvYE&_nc_ohc=yMEgVorRmQoAX-JWtXM&_nc_ht=scontent.fnqn9-1.fna&oh=00_AfAgmBHPPTFH_3Wax6Dn_TeWAVf4JkTuK7wtzo8Eq997bQ&oe=63B597EB) ;
 @media (max-width:768px) {
     .checkbtn {
         display: block;
