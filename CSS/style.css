@@ -86,6 +86,7 @@ img {vertical-align: middle;}
 
 /* Contenedor de carousel */
 .slideshow-container {
+max-width: 1000px;
 @media (max-width:768px) {
     .checkbtn {
         display: block;
