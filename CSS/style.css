@@ -58,6 +58,9 @@ header {
   display: none;
 }
 
+
+/* Clase de la imágen principal */
+.hero-image{
 @media (max-width:768px) {
     .checkbtn {
         display: block;
