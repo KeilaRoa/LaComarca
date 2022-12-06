@@ -88,6 +88,10 @@ img {vertical-align: middle;}
 .slideshow-container {
 max-width: 1000px;
 position: relative;
+margin: 1rem;
+margin-left: 10%;
+}
+
 @media (max-width:768px) {
     .checkbtn {
         display: block;
