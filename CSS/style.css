@@ -79,6 +79,10 @@ header {
 }
 
 
+/*  CAROUSEL DE IMÁGENES  */ 
+
+.carousel {display: none}
+img {vertical-align: middle;}
 @media (max-width:768px) {
     .checkbtn {
         display: block;
