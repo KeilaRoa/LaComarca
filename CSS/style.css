@@ -8,13 +8,14 @@
   text-decoration: none;
 }
 
+/* Clase del header */
 header {
-    background-color: #222;
     color: #fff;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: .5rem 2rem;
+  background-color: #222;
 }
 
 .logo-header {
