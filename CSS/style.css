@@ -10,12 +10,12 @@
 
 /* Clase del header */
 header {
-    color: #fff;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: .5rem 2rem;
   background-color: #222;
+  color: #fff;
 }
 
 .logo-header {
