@@ -48,9 +48,9 @@ header {
 }
 
 .menu-icon img {
-    border-radius: 2px;
   width: 30px;
   height: 30px;
+  border-radius: 2px;
 }
 
 .menu-icon,
