@@ -167,8 +167,6 @@ to {opacity: 1}
 
 
 @media (max-width:768px) {
-        display: block;
-        position: fixed;
         top: 70px;
         left: 100%;
         background: #222;
@@ -201,6 +199,8 @@ to {opacity: 1}
       cursor: pointer;
   }
   .nav-menu ul {
+      display: block;
+      position: fixed;
 }
 
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400);
