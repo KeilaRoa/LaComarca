@@ -127,6 +127,7 @@ padding: 8px 12px;
 position: absolute;
 bottom: 8px;
 width: 100%;
+text-align: center;
 @media (max-width:768px) {
     .checkbtn {
         display: block;
