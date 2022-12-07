@@ -283,9 +283,6 @@ left: 0;
 background: #3a3a3a;
 }
 .footer #cont {
-}
-.footer_center {
-  width: 500px;
   float: left;
   text-align: center;
 position: relative;
@@ -301,4 +298,6 @@ margin: 0 auto;
   font-weight: 100;
   margin-top: 70px;
   margin-left: 40px;
+.footer_centro {
+width: 500px;
 }
