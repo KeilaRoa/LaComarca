@@ -167,7 +167,6 @@ to {opacity: 1}
 
 
 @media (max-width:768px) {
-    .nav-menu ul li {
         padding: 2rem;
         display: flex;
         justify-content: center;
@@ -201,6 +200,7 @@ to {opacity: 1}
       height: 100vh;
       right: 0;
   }
+  .nav-menu ul li {
 }
 
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400);
