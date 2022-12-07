@@ -133,6 +133,7 @@ text-align: center;
 
 /* Puntitos de posición de imágenes */
 .punto {
+cursor: pointer;
 @media (max-width:768px) {
     .checkbtn {
         display: block;
