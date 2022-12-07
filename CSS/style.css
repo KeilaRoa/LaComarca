@@ -121,6 +121,7 @@ background-color: rgba(0,0,0,0.8);
 
 /* Diseño del texto */
 .text {
+color: #f2f2f2;
 @media (max-width:768px) {
     .checkbtn {
         display: block;
