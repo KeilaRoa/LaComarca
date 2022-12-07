@@ -14,3 +14,4 @@ function showSlides(n) {
   let slides = document.getElementsByClassName("carousel"); 
   let dots = document.getElementsByClassName("punto"); 
   
+  if (n > slides.length) {slideIndex = 1} 
