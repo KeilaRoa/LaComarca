@@ -167,8 +167,6 @@ to {opacity: 1}
 
 
 @media (max-width:768px) {
-        background: none;
-        padding: 1rem;
     }
     #check:checked~ul {
         left: 0;
@@ -201,6 +199,8 @@ to {opacity: 1}
       margin: 0;
   }
   .nav-menu ul li:last-child {
+      background: none;
+      padding: 1rem;
 }
 
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400);
