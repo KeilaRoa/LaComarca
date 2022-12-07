@@ -11,3 +11,6 @@ function currentSlide(n) {
 
 function showSlides(n) {
   let i;
+  let slides = document.getElementsByClassName("carousel"); 
+  let dots = document.getElementsByClassName("punto"); 
+  
