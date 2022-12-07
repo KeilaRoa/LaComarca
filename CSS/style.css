@@ -110,6 +110,7 @@ user-select: none;
 
 /* Posición del botón derecho */
 .next {
+right: 0;
 @media (max-width:768px) {
     .checkbtn {
         display: block;
