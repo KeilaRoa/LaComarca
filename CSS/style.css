@@ -146,6 +146,9 @@ transition: background-color 0.6s ease;
 .active, .punto:hover {
 background-color: #717171;
 }
+
+/* Animación de desaparición */
+.desteñir {
 @media (max-width:768px) {
     .checkbtn {
         display: block;
