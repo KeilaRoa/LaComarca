@@ -150,6 +150,7 @@ background-color: #717171;
 /* Animación de desaparición */
 .desteñir {
 animation-name: desteñir;
+animation-duration: 1.5s;
 @media (max-width:768px) {
     .checkbtn {
         display: block;
