@@ -240,8 +240,6 @@ position: relative;
 transition: all 1s ease;
 }
 .footer #button:hover {
-  width: 35px;
-  height: 35px;
   border: #3a3a3a 12px solid;
   -webkit-transition: all 1s ease;
   -moz-transition: all 1s ease;
@@ -249,6 +247,8 @@ transition: all 1s ease;
   -ms-transition: all 1s ease;
   transition: all 1s ease;
   position: relative;
+width: 35px;
+height: 35px;
 }
 .footer {
   bottom: 0;
