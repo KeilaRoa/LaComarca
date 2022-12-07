@@ -137,6 +137,8 @@ cursor: pointer;
 height: 15px;
 width: 15px;
 margin: 0 2px;
+background-color: #bbb;
+border-radius: 50%;
 @media (max-width:768px) {
     .checkbtn {
         display: block;
