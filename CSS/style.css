@@ -160,6 +160,7 @@ to {opacity: 1}
 
 /* Achicar cuando la pantalla es más pequeña */
 @media only screen and (max-width: 300px) {
+.prev, .next,.text {font-size: 11px}
 @media (max-width:768px) {
     .checkbtn {
         display: block;
