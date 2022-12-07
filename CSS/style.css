@@ -290,8 +290,6 @@ width: 150px;
 height: auto;
 margin: 0 auto;
 }
-  margin-top: 70px;
-  margin-left: 40px;
 .footer_centro {
 width: 500px;
 float: left;
@@ -301,3 +299,5 @@ text-align: center;
 font-family: "Helvetica";
 font-size: 30px;
 font-weight: 100;
+margin-top: 70px;
+margin-left: 40px;
