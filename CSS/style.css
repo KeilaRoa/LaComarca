@@ -283,7 +283,6 @@ left: 0;
 background: #3a3a3a;
 }
 .footer #cont {
-  position: relative;
   top: -45px;
   right: 190px;
   width: 150px;
@@ -294,6 +293,7 @@ background: #3a3a3a;
   width: 500px;
   float: left;
   text-align: center;
+position: relative;
 }
 .footer h3 {
   font-family: "Helvetica";
