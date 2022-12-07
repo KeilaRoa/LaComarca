@@ -167,7 +167,6 @@ to {opacity: 1}
 
 
 @media (max-width:768px) {
-    #check:checked~ul {
         left: 0;
         transition: all .25s;
     }
@@ -201,6 +200,7 @@ to {opacity: 1}
       background: none;
       padding: 1rem;
   }
+  #check:checked~ul {
 }
 
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400);
