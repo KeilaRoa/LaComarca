@@ -15,3 +15,5 @@ function showSlides(n) {
   let dots = document.getElementsByClassName("punto"); 
   
   if (n > slides.length) {slideIndex = 1} 
+  if (n < 1) {slideIndex = slides.length}
+
