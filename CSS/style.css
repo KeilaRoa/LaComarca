@@ -206,10 +206,10 @@ to {opacity: 1}
 /* FOOTER */
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400);
 body {
-  font-weight: 300;
-  background-color: lightblue;
-  color: #fff;
 font-family: "Source Sans Pro", sans-serif;
+font-weight: 300;
+background-color: lightblue;
+color: #fff;
 }
 section {
   text-align: center;
