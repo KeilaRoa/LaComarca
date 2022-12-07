@@ -266,12 +266,12 @@ transition: all 1s ease;
 z-index: 999;
 }
 .footer:hover {
-  height: 10em;
 -webkit-transition: all 1s ease;
 -moz-transition: all 1s ease;
 -o-transition: all 1s ease;
 -ms-transition: all 1s ease;
 transition: all 1s ease;
+height: 10em;
 }
 .footer #container {
   margin-top: 5px;
