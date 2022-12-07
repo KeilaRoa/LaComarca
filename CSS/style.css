@@ -167,9 +167,6 @@ to {opacity: 1}
 
 
 @media (max-width:768px) {
-        left: 0;
-        transition: all .25s;
-    }
   .checkbtn {
       display: block;
   }
@@ -201,6 +198,9 @@ to {opacity: 1}
       padding: 1rem;
   }
   #check:checked~ul {
+      left: 0;
+      transition: all .25s;
+  }
 }
 
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400);
