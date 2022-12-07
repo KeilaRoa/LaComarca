@@ -167,8 +167,6 @@ to {opacity: 1}
 
 
 @media (max-width:768px) {
-    .menu-icon {
-        display: block;
         position: fixed;
         top: 20px;
         right: 20px;
@@ -201,6 +199,8 @@ to {opacity: 1}
   .checkbtn {
       display: block;
   }
+  .menu-icon {
+      display: block;
 }
 
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400);
