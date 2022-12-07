@@ -152,6 +152,11 @@ background-color: #717171;
 animation-name: desteñir;
 animation-duration: 1.5s;
 }
+
+@keyframes desteñir {
+from {opacity: .4} 
+to {opacity: 1}
+}
 @media (max-width:768px) {
     .checkbtn {
         display: block;
