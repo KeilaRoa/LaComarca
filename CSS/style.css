@@ -227,7 +227,6 @@ section {
 text-align: center;
 }
 .footer #button {
-  border-radius: 35px;
   margin: 0 auto;
   position: relative;
   -webkit-transition: all 1s ease;
@@ -238,6 +237,7 @@ text-align: center;
 width: 35px;
 height: 35px;
 border: #727172 12px solid;
+border-radius: 35px;
 }
 .footer #button:hover {
   width: 35px;
