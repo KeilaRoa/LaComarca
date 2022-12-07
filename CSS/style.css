@@ -129,6 +129,10 @@ bottom: 8px;
 width: 100%;
 text-align: center;
 }
+
+
+/* Puntitos de posición de imágenes */
+.punto {
 @media (max-width:768px) {
     .checkbtn {
         display: block;
